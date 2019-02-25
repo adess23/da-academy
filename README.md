@@ -200,27 +200,32 @@ Software development with Python
 
 #### Python
 
+**Mandatory:**
 1. [Acamica Python Training](https://globant.acamica.com/cursos/485/)
 
-2. https://www.udemy.com/python-programming-beginners/
+**Recommended:**
+1. [Python Advanced] https://globant.acamica.com/cursos/488/
 
-3. https://www.udemy.com/pythonforbeginnersintro/
+**Extra:**
+1. https://www.udemy.com/python-programming-beginners/
 
-4. https://www.udemy.com/python-core-and-advanced/
+2. https://www.udemy.com/pythonforbeginnersintro/
 
-5. https://www.udemy.com/python-from-beginner-to-expert-starter-free/ (1.5h)
+3. https://www.udemy.com/python-core-and-advanced/
 
-6. https://www.udemy.com/python-3-bootcamp/ (6h)
+4. https://www.udemy.com/python-from-beginner-to-expert-starter-free/ (1.5h)
 
-7. https://www.udemy.com/python-3-for-total-beginners/ (6.5h)
+5. https://www.udemy.com/python-3-bootcamp/ (6h)
 
-8. https://www.udemy.com/python-introduction/
+6. https://www.udemy.com/python-3-for-total-beginners/ (6.5h)
 
-9. https://www.udemy.com/learn-python-prgramming-language-from-beginning-to-advanced/ (4h)
+7. https://www.udemy.com/python-introduction/
 
-10. https://www.udemy.com/python-basics-bootcamp/ (45mins)
+8. https://www.udemy.com/learn-python-prgramming-language-from-beginning-to-advanced/ (4h)
 
-11. https://www.udemy.com/learn-python-3-from-scratch-python-for-absolute-beginners/ (2.5h)
+9. https://www.udemy.com/python-basics-bootcamp/ (45mins)
+
+10. https://www.udemy.com/learn-python-3-from-scratch-python-for-absolute-beginners/ (2.5h)
 
 12. https://www.udemy.com/python-101-unlock-programming-skills/ (4.5h)
 
