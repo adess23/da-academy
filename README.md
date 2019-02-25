@@ -620,6 +620,45 @@ Commit your practice code.
 
 ### Auto assessment: ###
 
+*1. What is a DAG?*
+*2. What is an RDD?*
+*3. Which are the benefits of Spark over MapReduce?*
+*4. Do you need to install Spark on all nodes of YARN cluster?*
+*5. What is the different of using `yarn-cluster` mode vs using `local` ?*
+*6. What is the different of using `yarn-cluster` mode vs `yarn-client` mode ?*
+*7. How do we create an RDD in Apache Spark ?*
+*8. What is the difference between RDDs, Dataframes and Datasets ?*
+*9. What types of operations do we use in the RDDs ?*
+*10. What is a partition?*
+*11. What is the Spark Driver? Which is the difference with the Spark Executor?*
+*12. What are broadcast variables? And accumulators?*
+*13. What is a DStream?*
+*14. What is the significance of Sliding Window Operations?*
+*15. Why would you use caching in Apache Spark?*
+*16. What do you understand by eager evaluation? And lazy? Which is used by Apache Spark?*
+*17. Which part of the following code will be executed on the master? Which will run on each worker node?*
+```
+val formatter: DateTimeFormatter = DateTimeFormatter.ofPattern("yyyy/MM")
+
+def getEventCountOnWeekdaysPerMonth(data: RDD[(LocalDateTime, Long)]): Array[(String, Long)] = {
+
+ val result = data
+   .filter(e => e._1.getDayOfWeek.getValue < DayOfWeek.SATURDAY.getValue)
+   .map(mapDateTime2Date)
+   .reduceByKey(_ + _)
+   .collect()
+
+ result
+   .map(e => (e._1.format(formatter), e._2))
+}
+
+private def mapDateTime2Date(v: (LocalDateTime, Long)): (LocalDate, Long) = {
+ (v._1.toLocalDate.withDayOfMonth(1), v._2)
+}
+```
+
+
+
 → [index](#index)
 
 # Week 4: Cloud Ecosystem
