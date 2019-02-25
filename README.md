@@ -578,6 +578,8 @@ You will learn the main concepts, architecture and basics. Besides, you will be 
 
 2. [Spark Starter Kit](https://www.udemy.com/sparkstarterkit/)
 
+3. [Apache Spark Tutorial]l(https://www.datacamp.com/community/tutorials/apache-spark-python)
+
 ### Practice: ###
 
 #### Before you begin ####
