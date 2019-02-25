@@ -452,8 +452,14 @@ Commit your practice code.
 # Week 2: Big Data Introduction
 
 ### Motivation ###
+The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. It is the foundation of the US$166B Big Data ecosystem (source: IDC) by enabling data applications to run and be managed on large hardware clusters in a distributed computing environment. Besides, it has been at the center of this big data transformation, providing an ecosystem with tools for businesses to store and process data on a scale that was unheard of several years ago.
 
 ### What you will learn ###
+
+- Understand how to analyze problems and drive to solutions using data.
+- The Hadoop main concepts and architecture
+- HDFS Fundamentals
+- Map Reduce Essentials
 
 ### Reading: ###
 
@@ -574,11 +580,14 @@ You will learn the main concepts, architecture and basics. Besides, you will be 
 
 ### Reading: ###
 
-1. [Spark Basics](https://www.udemy.com/spark-basics/)
+1. [Acamica Spark Training]: (https://globant.acamica.com/cursos/209/)
+_Some videos are missed, however, you can follow the course without problems_
+EXTRA:
+2. [Spark Basics](https://www.udemy.com/spark-basics/)
 
-2. [Spark Starter Kit](https://www.udemy.com/sparkstarterkit/)
+3. [Spark Starter Kit](https://www.udemy.com/sparkstarterkit/)
 
-3. [Apache Spark Tutorial](https://www.datacamp.com/community/tutorials/apache-spark-python)
+4. [Apache Spark Tutorial](https://www.datacamp.com/community/tutorials/apache-spark-python)
 
 ### Practice: ###
 
