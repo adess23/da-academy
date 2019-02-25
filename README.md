@@ -565,8 +565,12 @@ Commit your practice code.
 # Week 3: Spark
 
 ### Motivation ###
+Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark was developed in 2012 in response to limitations in the MapReduce cluster computing paradigm, which forces a particular linear dataflow structure on distributed programs. Spark had in excess of 1000 contributors in 2015, making it one of the most active projects in the Apache Software Foundation and one of the most active open source big data projects.
+Right now, Apache Spark is used in the majority of our Data projects so it's crucial for our Data Architects to be proficient with it.
 
 ### What you will learn ###
+
+You will learn the main concepts, architecture and basics. Besides, you will be able to run your fist Spark program.
 
 ### Reading: ###
 
