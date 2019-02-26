@@ -589,14 +589,18 @@ You will learn the main concepts, architecture and basics. Besides, you will be 
 
 ### Reading: ###
 
+**Mandatory:**
+
 1. [Acamica Spark Training]: (https://globant.acamica.com/cursos/209/)
 _Some videos are missed, however, you can follow the course without problems_
-EXTRA:
-2. [Spark Basics](https://www.udemy.com/spark-basics/)
 
-3. [Spark Starter Kit](https://www.udemy.com/sparkstarterkit/)
+**Extra:**
 
-4. [Apache Spark Tutorial](https://www.datacamp.com/community/tutorials/apache-spark-python)
+1. [Spark Basics](https://www.udemy.com/spark-basics/)
+
+2. [Spark Starter Kit](https://www.udemy.com/sparkstarterkit/)
+
+3. [Apache Spark Tutorial](https://www.datacamp.com/community/tutorials/apache-spark-python)
 
 ### Practice: ###
 
