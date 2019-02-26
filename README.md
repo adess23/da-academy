@@ -468,17 +468,21 @@ The Apache Hadoop software library is a framework that allows for the distribute
 
 ### Reading: ###
 
+**Mandatory:**
+
 1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 
 2. [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 
-3. [Introduction to Apache Hadoop](https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
+**Extra:**
 
-4. [Big data and Hadoop framework](https://www.udemy.com/big-data-and-hadoop-framework/)
+1. [Introduction to Apache Hadoop](https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
 
-5. [Big Data and Hadoop Essentials](https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial/)
+2. [Big data and Hadoop framework](https://www.udemy.com/big-data-and-hadoop-framework/)
 
-6. [Hadoop Basic Course for Beginners to Professionals](https://www.udemy.com/hadoop-basic-course-for-beginners-to-professionals/)
+3. [Big Data and Hadoop Essentials](https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial/)
+
+4. [Hadoop Basic Course for Beginners to Professionals](https://www.udemy.com/hadoop-basic-course-for-beginners-to-professionals/)
 
 ### Practice: ###
 
