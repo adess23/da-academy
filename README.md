@@ -44,13 +44,13 @@ exercises.
 
 	* [Week 0: Python + Linux](#week-0-python-and-linux)
 
-    * [Week 1: Storage](#week-1-storage)
+    * [Month 1: Storage](#month-1-storage)
 
-    * [Week 2: Big Data Introduction](#week-2-big-data-introduction)
+    * [Month 2: Big Data Introduction](#month-2-big-data-introduction)
 
-    * [Week 3: Spark](#week-3-spark)
+    * [Month 3: Spark](#month-3-spark)
 
-    * [Week 4: Cloud Ecosystem](#week-4-cloud-ecosystem)
+    * [Month 4: Cloud Ecosystem](#month-4-cloud-ecosystem)
 
 12. [Additional Resources](#additional-resources)
 
@@ -74,7 +74,7 @@ The goal of the acade,y is to gain data related skills. Globant will keep a reco
 
 ### Duration
 
-20 days ( 40 hours - week ) / 40 days (20 hours - week).
+4 months (at most... fast students are encouraged, of course!)
 
 → [index](#index)
 
@@ -147,12 +147,12 @@ Accepted students will have access to premium udemy courses on the program study
 
 ### Learning Days ###
 
-During each week you will grab the fundamentals of the key building blocks for usual DA challenges.
+During each module you will grab the fundamentals of the key building blocks for usual DA challenges.
 
 On each topic you will have to:
 
 1. ### Enroll courses: ###
-Each week counts with a special course link which you can visit to enroll it.
+Each module counts with a special course link which you can visit to enroll it.
 
 2. ### Read: ###
 We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
@@ -344,7 +344,7 @@ Commit your practice code.
 
 → [index](#index)
 
-# Week 1: Storage
+# Month 1: Storage
 
 ### Motivation ###
 
@@ -456,7 +456,7 @@ Commit your practice code.
 
 → [index](#index)
 
-# Week 2: Big Data Introduction
+# Month 2: Big Data Introduction
 
 ### Motivation ###
 The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. It is the foundation of the US$166B Big Data ecosystem (source: IDC) by enabling data applications to run and be managed on large hardware clusters in a distributed computing environment. Besides, it has been at the center of this big data transformation, providing an ecosystem with tools for businesses to store and process data on a scale that was unheard of several years ago.
@@ -579,7 +579,7 @@ Commit your practice code.
 
 → [index](#index)
 
-# Week 3: Spark
+# Month 3: Spark
 
 ### Motivation ###
 Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark was developed in 2012 in response to limitations in the MapReduce cluster computing paradigm, which forces a particular linear dataflow structure on distributed programs. Spark had in excess of 1000 contributors in 2015, making it one of the most active projects in the Apache Software Foundation and one of the most active open source big data projects.
@@ -691,7 +691,7 @@ private def mapDateTime2Date(v: (LocalDateTime, Long)): (LocalDate, Long) = {
 
 → [index](#index)
 
-# Week 4: Cloud Ecosystem
+# Month 4: Cloud Ecosystem
 
 ### Motivation ###
 
