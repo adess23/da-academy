@@ -1,16 +1,7 @@
-# DA Academy
+# DA Academy V2.0
 ## Python - Linux - Storage - Big data - Cloud Ecosystem
 
-
-![Globant](assets/globant.jpg)
-
-## Welcome to the academy, learning time has begun
-
-![Workout](assets/workout.gif)
-
-Please, use this repository as a base for you training phase. The idea is to
-fork this project so everyone use the same folder structure for the
-exercises.
+![Globant](assets/Content.jpg)
 
 # Material
 
@@ -30,31 +21,23 @@ exercises.
 
 5. [Performance Measurement](#performance-measurement)
 
-6. [Handling advanced Developers](#handling-advanced-developers)
+6. [Materials](#materials)
 
-7. [Materials](#materials)
+7. [General Guidelines](#general-guidelines)
 
-8. [General Guidelines](#general-guidelines)
+8. [Handling advanced Developers](#handling-advanced-developers)
 
 9. [Sign up](#sign-up)
 
-10. [Preparing your working environment](#preparing-your-working-environment)
+10. [Learning Days](#learning-days)
 
-11. [Learning Days](#learning-days)
+11. [Individual performance](#individual-performance)
 
-	* [Week 0: Python + Linux](#week-0-python-and-linux)
+12. [Earning Badges](#earning-badges)
 
-    * [Month 1: Storage](#month-1-storage)
+13. [Working material](#working-material)
 
-    * [Month 2: Big Data Introduction](#month-2-big-data-introduction)
-
-    * [Month 3: Spark](#month-3-spark)
-
-    * [Month 4: Cloud Ecosystem](#month-4-cloud-ecosystem)
-
-12. [Additional Resources](#additional-resources)
-
-13. [Upon training completion](#upon-training-completion)
+14. [Upon training completion](#upon-training-completion)
 
 ### Objective
 
@@ -106,7 +89,9 @@ technical assistance. Communications will take place over [Globant Slack](https:
 
 5. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/).
 
-6. Fork this repo https://github.corp.globant.com/big-data-studio/da-academy to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
+6. **AWS account. Follow [this tutorial](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) to create yours. You might be asked to add a Payment method: don't worry, you won't be charged for anything during the course if you follow our guideline.** 
+
+7. Fork this repo https://github.corp.globant.com/big-data-studio/da-academy to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 
 → [index](#index)
 
@@ -144,6 +129,7 @@ Accepted students will have access to premium udemy courses on the program study
 
 [Link to Registration form](https://docs.google.com/forms/d/e/1FAIpQLSe_FoHNnmHnn3a-Sh9L8rl1SDZsWKrshiwe4v5R0wZOdi9OmQ/viewform)
 
+→ [index](#index)
 
 ### Learning Days ###
 
@@ -180,734 +166,46 @@ General requirements:
 
 4. After each topic, you will find two types of exercices. The **Practice** section is considered mandatory for everyone. The **Challenges!!** section is optional (of course, try to tackle it too. Every additional task acts like a bonus).
 
-5. There's an **Auto assessment** section after each subject which will help you understand how you're doing. If this becomes too difficult, then you should go back and make a second read. This said, try not to leave concepts/exercices for the end. Every subject is important and it helps (in some way, it is required) to understand the following subject.  
-
-### Prepare your environment ###
-
-In order to test and run Spark and Hadoop exercices, you will need to download a Virtual Machine. Further instructions on how to download this can be found in [here](exercices/Download_Virtual_Machine.pdf)
-
-# Week 0: Python and Linux
-
-### Motivation ###
-
-DA needs to be ready to code. Python is the best programming language to start. We need to be sure that the trainees are decent programmers and have the desired minimum skills.
-
-### What you will learn ###
-
-Software development with Python
-
-### Courses: ###
-
-#### Python
-
-**Mandatory:**
-1. [Acamica Python Training](https://globant.acamica.com/cursos/485/)
-
-**Recommended:**
-2. [Python Advanced](https://globant.acamica.com/cursos/488/)
-
-**Extra:**
-3. [Programming with Python: Hands-On Introduction for Beginners](https://www.udemy.com/python-programming-beginners/) (3.5h)
-
-4. [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/) (4.5h)
-
-5. [Python Core and Advanced](https://www.udemy.com/python-core-and-advanced/) (8h)
-
-6. [Python from Beginner to Intermediate in 30 min.](https://www.udemy.com/python-from-beginner-to-expert-starter-free/) (1.5h)
-
-7. [Learn Python 3.6 for Total Beginners](https://www.udemy.com/python-3-for-total-beginners/) (6.5h)
-
-8. [Python Basics - Bootcamp](https://www.udemy.com/python-basics-bootcamp/) (45m)
-
-9. [Learn Python 3 From Scratch | Python for Absolute Beginners](https://www.udemy.com/learn-python-3-from-scratch-python-for-absolute-beginners/) (2.5h)
-
-10. [Python 101: Unlock Programm Skills - From Novice to Expert](https://www.udemy.com/python-101-unlock-programming-skills/) (4.5h)
-
-
-#### Linux
-
-**Mandatory:**
-1. [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
-- Mandatory Chapters: 3, 7, 8, 9, 10, 11, 12, 14, 16, 18
-- All other chapters are recommended but not obligatory
-
-**Extra:**
-2. [Linux Fundamentals for IT Professionals](https://www.udemy.com/linux-fundamentals-for-it-professionals/) (8h)
-
-3. [Intro to Linux Shell Scripting](https://www.udemy.com/linux-shell-scripting-free/) (42m)
-
+5. There's an **Auto assessment** section after each subject which will help you understand how you're doing. If this becomes too difficult, then you should go back and make a second read. This said, try not to leave concepts/exercices for the end. Every subject is important and it helps (in some way, it is required) to understand the following subject. 
 
 → [index](#index)
 
-### Practice: ###
+### Earning Badges ###
 
-#### Before you begin ####
-(It is assumed that Git is already installed and working).
+As shown in the image at the top, each Academy module comes with a badge. There are two types of badges:
 
-1. **Fork** this repository.
-2. Clone your fork.
-3. Initialize a simple project in your local repository.
-4. Update *.gitignore* file, not to upload */target* folder nor any undesirable and unneeded file.
-5. Upload your code with whatever changes you've made. You will upload your individual progress in your master branch. You can also create additional branches for testing/other purposes. Corrections will be only made against your master branch.
-6. Every practice functionality must be validated through unit tests. Use the [pytest package](https://pytest.readthedocs.io/en/latest/getting-started.html) to make these tests.
+* Golden badges: modules with golden badges are mandatory for every student and are considered the base of the course. 
 
-#### Exercices ####
+* Red badges: modules with these badges are optional. We strongly recommend you to talk with a tutor before starting them 
+in order to guide you and choose the ones which are most suitable for your career path.
 
-1. **Linux basics**: Answer the following questions:
-
-- What command would you use to count the amount of occurrences of the word ​Unix ​in a file? How would make the command case insensitive?
-- What command would you use to constantly see the last 100 lines appended to a file that contain the word ​*"ERROR"*​?
-
-2. **Python Basics**: Matrix Calculation
-
-Create a class which allows to represent a matrix of any order or shape (n x n, n x m). It should also allow the following operations with matrices:
-
-- Matrices addition
-- Scalar multiplication
-- Matrices multiplication
-- Matrix transpose
-- Matrix determinant
-- Adjugate matrix
-- Inverted matrix
-
-Add additional methods:
-
-- A method to obtain a matrix row. Do not return repeated rows. E.g., you can specify that the rows 1,3,8 are desired from a 20x10 matrix.
-
-- A method to obtain a matrix column. Do not return repeated columns. E.g., you can specify that the columns 2,4,10 are desired from a 20x10 matrix.
-
-- A method to obtain part of the matrix from a certain column. E.g., from a 10x10 matrix, the 10x2 matrix from column 5 is desired.
-
-- A method to show the matrix on screen as a matrix.
-
-A 3x6 matrix can be defined at the class instantiation time like this:
-Matrix([[1,2,3,4,5,6],
-	[10,11,12,13,14,15],
-	[-1,-2,-3,-4,-5,-6]])
-
-Do not use the numpy package for this implementation. Just use the Standard Library.
-
-[Matrix calculation reference](
-http://matematicasbachiller.com/videos/2-bachillerato/introduccion-al-algebra-de-lo-lineal/01-calculo-matricial-6)
-
-### Commit: ###
-
-Commit your practice code.
-
-<img src="assets/stop.png" title="Stop Logo" width="150" height="150">
-
-### Auto assessment: ###
-
-*1. Linux: What is the difference between a partition and a filesystem?*
-
-*2. What is the relationship between Linux Kernel and Linux Distros?*
-
-*3. What are the two levels on which the package managers operate on Linux?*
-
-*4. How would you go about researching a new feature on Linux? How are the different sources of documentation used?*
-
-*5. What are the different types of processes? How do you manage them?*
-
-*6. Explain the concepts of partitions, mount points, NFS and pseudo filesystems*
-
-*7. How does a Network work? What are the different types of addresses? What is the function of the DNS? What happens when you send a file using FTP?*
-
-*8. How do you use routines on bash scripts? Why would you use bash scripting?*
-
-*9. What steps should you take to make Linux as secure as possible? What is process isolation, and how do you achieve it? How can you secure the boot process?*
-
-*10. What does it that Python is: Interpreted, Dynamic typing, Extensive, Object Oriented*
-
-*11. Python Data Structures and characteristics? Differences and similarities between dictionary, map, set, lists and tuples*
-
-*12. What are Lambda Expressions? What are Nested statements? How can you create and use each of them? Why would you?*
-
-*13. Explain the concept of Inheritance. How does it work?*
-
-*14. Explain the concept of Polymorphism. How does it work?*
-
-*15. What are errors and exceptions in python? How can you handle them?*
-
-*16. Explain all the built-in functions you can remember*
-
-*17. What are decorators in python? Why would you use them, and how?*
-
-*18. What is the difference between generators and iterators? How can you create and consume a generator?*
-
-*19. What are python coding conventions? How would you go about creating a python project from scratch? How would you structure it?*
-
-*20. What are the different ways of debugging your python project? Why and how would you use each of them?*
+In order to end the course and be able to attend an interview, golden badges are a pre-requisite and their corresponding 
+modules will be considered as known. Red badges in which the student has worked will also be part of the content of 
+this meeting.
 
 → [index](#index)
 
-# Month 1: Storage
+### Working Material ###
 
-### Motivation ###
+- [Introduction: Cloud Ecosystem with GCP](introduction_to_gcp/)
 
-Chosing the most appropriate data model for your project is not trivial. As a DA, you are expected to be able to define what are the pros and cons of each model for your use case and make the final choice.
+- [Fundamentals: Python + Linux](fundamentals/)
 
-### What you will learn ###
+- [Introduction to Data Models](introduction_to_data_models/)
 
-To begin with, we can classify data models in two big groups: relational and NoSQL databases. Here you will learn the fundamentals of each, with some specific implementations details.
+- [Hadoop Ecosystem: Fundamentals - Hadoop + MR](hadoop_ecosystem_fundamentals_1/)
 
-### Courses: ###
+- [Hadoop Ecosystem: Fundamentals - Spark](hadoop_ecosystem_fundamentals_2/)
 
-1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- Mandatory modules: Elements of SQL, Python DB API, Deeper into SQL
+- [Containers & IAC](containers_iac/)
 
-2. [NoSQL - Acamica](https://globant.acamica.com/cursos/412/)
+- [REST APIs](rest_apis/)
 
-### Reading: ###
+- [Streaming + Dataflow](streaming_dataflow/)
 
-3. [NoSQL Fundamentals Guide](https://docs.google.com/document/d/1d8DYf6F9p74Cm5hvPwo6njdGazu01y4sqZG1mmIxLWY/edit)
+- [Hadoop Ecosystem: Advanced](hadoop_ecosystem_advanced/)
 
-4. [Data models choice](reading/data_models_choice.pptx)
-
-→ [index](#index)
-
-### Practice: ###
-
-1. Create your project DB with whichever SQL db you prefer. From now on, data should be retrieved from/persisted in/deleted from there.
-2. Create a database named 'high-school' and modelate:
-
-   - Student: first name, last name, registration number, date of birth
-   - Teacher: first name, last name, date of birth
-   - Course: name, assigned teacher, hours by week, schedule time (they can be dictated several times during the week)
-
-   Notes:
-   - A student can assist several courses during the same year.
-   - A teacher can be assigned to several courses.
-   - For each course, each student has 3 partial notes and a final note.
-   - Create all relationship that you think they are required.
-
-3. Insert information for 3 teachers, 3 courses and 10 students per course.
-4. List students and teachers for a given course. The output format should be:
-
-        Course: <course-name>
-        Teacher: <last-name>, <first-name>
-        Students:
-          <last-name>, <first-name> (ordered by alphabetically by last name)
-
-5. Percentage of students that passed/failed a given course.
-6. For a given teacher, list the timeline for each course that he is assigned to (ordered by date), and the course name. The format should be:
-
-        Teacher: <last-name>, <first-name>
-        Schedule:
-          Monday 09:00 - 11:00: <course-name>
-          Monday 15:00 - 17:30: <course-name>
-          Friday 08:45 - 10:40: <course-name>
-
-7. Identify and Optimize all queries.
-
-8. [NoSQL exercices](exercices/MongoDB_Exercises.pdf) (Download [restaurants.zip](exercices/restaurants.zip))
-
-#### Before you begin ####
-(It is assumed that Git is already installed and working).
-
-#### Exercices ####
-
-1. Exercies from [Udacity](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-
-2. Quiz - Acamica
-
-### Commit: ###
-
-Commit your practice code.
-
-<img src="assets/stop.png" title="Stop Logo" width="150" height="150">
-
-### Auto assessment: ###
-
-*1. What is a DBMS and what are its responsibilities? What are the DBMS components?*
-
-*2. What are the architectural levels? How are they related to each other?*
-
-*3. What are the characteristics of a OLAP system? What is the difference with OLTP?*
-
-*4. What is ACID? Explain each concept of the acronym*
-
-*5. Explain what is a data model, and what are the different structures, constraints and operations.*
-
-*6. What is normalization, and what each level requires? Why would you normalize a table? How do you do it?*
-
-*7. What is the difference between relational and non relational databases? Why would you chose each?*
-
-*8. What are the different types of databases?*
-
-*9. What does the CAP Theorem state? What are the tradeoffs one needs to do when selecting a database?*
-
-*10. What are the Consistency levels?*
-
-*11. Explain Sharding, Clustering and Partitions*
-
-*12. What does failover mean? What are some failover techniques?*
-
-*13. How do Key-Value stores work? What are the benefits? What are the weaknesses? What are some of the common features?*
-
-*14. How do Documental stores work? What are the benefits? What are the weaknesses? What are some of the common features?*
-
-*15. How do Columnar stores work? What are the benefits? What are the weaknesses? What are some of the common features?*
-
-*16. How do Graph stores work? What are the benefits? What are the weaknesses? What are some of the common features?*
-
-*17. What are the common architectural components and functions of the different data store types?*
-
-
-→ [index](#index)
-
-# Month 2: Big Data Introduction
-
-### Motivation ###
-The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. It is the foundation of the US$166B Big Data ecosystem (source: IDC) by enabling data applications to run and be managed on large hardware clusters in a distributed computing environment. Besides, it has been at the center of this big data transformation, providing an ecosystem with tools for businesses to store and process data on a scale that was unheard of several years ago.
-
-### What you will learn ###
-
-- Understand how to analyze problems and drive to solutions using data.
-- The Hadoop main concepts and architecture
-- HDFS Fundamentals
-- Map Reduce Essentials
-
-### Courses: ###
-
-**Mandatory:**
-
-1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-- Mandatory Lession 1: Data Analysis Process
-
-2. [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
-- Mandatory modules: Big Data, HDFS and MapReduce, Problem Set Lesson 2 & Lesson 4
-
-**Extra:**
-
-4. [Introduction to Apache Hadoop](https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
-- Recommended Chapters: 2, 3
-
-5. [Big Data and Hadoop Essentials](https://www.udemy.com/big-data-and-hadoop-essentials-free-tutorial/) (45mins)
-
-6. [Hadoop Basic Course for Beginners to Professionals](https://www.udemy.com/hadoop-basic-course-for-beginners-to-professionals/) (2.5h)
-
-### Practice: ###
-
-#### Before you begin ####
-(It is assumed that Git is already installed and working).
-
-#### Exercices ####
-
-1. ETL: Movies data processing
-
-Process the 5000 films data file extracted from IMDB and answer the questions below. Show obtained results in a simple HTML document. Additionaly, add the time that takes to process the data to achieve requirements.
-
-- ¿How many "colour" films and how many "black and white" films are there in the list?
-- ¿How many films did each director produce?
-- ¿Which are the 10 least criticized films?
-- ¿Which are the 20 longest films?
-- ¿Which are the 5 films which raised the most money?
-- ¿Which are the 5 fils which raised the least money?
-- ¿Which are the 3 movies which spent the most to be produced?
-- ¿Which are the 3 movies which spent the least to be produced?
-- ¿In which year were more films released?
-- ¿In which year were less films released?
-- Create a ranking of actors including the following:
-	- amount of movies where the actor performed
-	- his/her influence in social networks
-	- his/her best movie
-	- ordered by number of performances
-
-- Create a tag cloud using movies tags or keywords. To do this, is enough with creating and showing a word ranking and its weight (number of appareances of the word), with descending order.
-
-- ¿Which movie gender raised the most for each year?
-- ¿Which movie gender raised the least for each year?
-- Show the actors ranking ordered by performances and popularity
-- ¿Which movie genre do people like the most?
-- ¿Which are the 5 directors with the best reputation?
-
-Do not use the pandas package to make this implementation. Restrict to the Standard Library.
-
-[Films data file](https://drive.google.com/open?id=0B7BCSacG-KJgUE1YRW9wUEQwUDQ)
-
-2. Udacity - Lesson 2
-
-3. Udacity - Lesson 4
-
-### Commit: ###
-
-Commit your practice code.
-
-<img src="assets/stop.png" title="Stop Logo" width="150" height="150">
-
-### Auto assessment: ###
-
-*1. Please indicate the phases for Data Analysis Process?*
-
-*2. What are the main components of a Hadoop Application?*
-
-*3. What are the 2 parts that divide the Wrangling phase?*
-
-*4. Data locality feature in Hadoop means ?*
-
-*5. The phase that allows us to make predictions with the data is?*
-
-*6. Which are the three modes in which Hadoop can be run?*
-
-*7. What happens to job tracker when Namenode is down?*
-
-*8. What is the basic difference between traditional RDBMS and Hadoop?*
-
-*9. How would you transform unstructured data into structured data?*
-
-*10. Replication causes data redundancy, then why is it pursued in HDFS?*
-
-*11. What is a Namenode?*
-
-*12. What is a Datanode?*
-
-*13. What are Problems with small files and HDFS?*
-
-*14. Can Hadoop handle streaming data?*
-
-*15. In Hadoop, HDFS federation means?*
-
-*16. What are the scheduler options available in YARN?*
-
-*17. What is a block in HDFS?*
-
-*18. Explain how do ‘map’ and ‘reduce’ works.*
-
-*19. What are the common input formats in Hadoop?*
-
-*20. What is the use of jps command in Hadoop?*
-
-→ [index](#index)
-
-# Month 3: Spark
-
-### Motivation ###
-Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark was developed in 2012 in response to limitations in the MapReduce cluster computing paradigm, which forces a particular linear dataflow structure on distributed programs. Spark had in excess of 1000 contributors in 2015, making it one of the most active projects in the Apache Software Foundation and one of the most active open source big data projects.
-Right now, Apache Spark is used in the majority of our Data projects so it's crucial for our Data Architects to be proficient with it.
-
-### What you will learn ###
-
-You will learn the main concepts, architecture and basics. Besides, you will be able to run your fist Spark program.
-
-### Courses: ###
-
-**Mandatory:**
-
-1. [Acamica Spark Training](https://globant.acamica.com/cursos/209/)
-- Some videos are missed, however, you can follow the course without problems_
-
-**Extra:**
-
-2. [Spark Basics](https://www.udemy.com/spark-basics/) (8h)
-
-3. [Spark Starter Kit](https://www.udemy.com/sparkstarterkit/) (3.5h)
-
-**Reading:**
-
-4. [Apache Spark Tutorial](https://www.datacamp.com/community/tutorials/apache-spark-python)
-
-### Practice: ###
-
-#### Before you begin ####
-(It is assumed that Git is already installed and working).
-
-#### Exercices ####
-
-**Server Log Analysis with Spark**
-
-Files: [weblog.csv](exercices/weblog.csv)
-
-This lab will demonstrate how you can perform web server log analysis with Apache Spark.
-Log data comes from many sources, such as web server and server commands.
-
-The log files that we use for this assignment are in the Apache Common Log Format (CLF). 
-Each part of this log entry is described below.
-
-*IP*: This is the IP address (or host name, if available) of the client (remote host) which made the request to the server. 
-
-*Time*: The time that the server finished processing the request. The format is: *day/month/year:hour:minute:second*
-
-*URL*: This is the first line of the request string from the client. It consists of three components: the **request method** (e.g., GET, POST, etc.), **the endpoint** (a Uniform Resource Identifier), and the **client protocol version**.
-
-*Status*: This is the status code that the server sends back to the client. 
-
-*Notes:
-IP: may contain information that is not necessarily an IP value, remember, it is a log with many sources.
-Time: Keep in mind that you must clean the value to be considered date type, remember, it is a log with many sources.*
-
-**How to complete this lab.**
-
-1. Exploratory Data Analysis
-
-2. Analysis Walk-Through on the Log File
-    1. **HTTP Status Analysis**: Create a PySpark script that allows to know which status values appear in the data and how many times. 
-    2. **Frequent Hosts**: Create a PySpark script that looks hosts that have accessed the server frequently (e.g., more than ten times). 
-    3. **Frequent Commands**: Create a PySpark script that allows to find commands executed
-    4. **Top Paths**: Create a PySpark script that allows you to find  the top paths (URIs) in the log with code 200. 
-    Sample:
-     ('/details.php', 100),
-     ('/contestproblem.php', 98),
-     ('/css/normalize.css', 85),
-     (' /js/vendor/modernizr-2.8.3.min.js', 75)
-
-3. Analyzing Web Server Log File
-    1. **Top Ten Error Paths**: Create a PySpark script that allows you to know the top ten paths which did not have return code 200. Create a sorted list containing the paths and the number of times that they were accessed with a non-200 return code and show the top ten.
-    2. **Number of Unique Hosts**: Create a PySpark script that allows you to know unique hosts are there in the entire log.
-    3. **Number of Unique Daily Hosts**: Create a PySpark script that allows you to know the number of unique hosts in the entire log on a day-by-day. 
-    4. **Exploring Status Codes**: 
-        1. Create a PySpark script that allows you: 
-            1. Counting 304 Response Codes
-            2. Listing the Top Five 304 Response Code paths
-            3. Listing the Top tene 302 Response Code Hosts
-            4. Listing 206 / 404 Errors per Day
-        2. Create a PySpark script that allows you:
-            1. Hourly 206 Errors
-            2. Hourly 304 Errors
-
-Note: for 3.iii, create a DataFrame with following columns:
-
-| Column        | Explanation           |
-| ------------- |:-------------:        |
-| host          | the host ip           |
-| month         | month                 |
-| day           | the day of the month  |
-
-**Challenge!**:
-
-- What do people think about Sandra Bullock's *"Bird Box"*? Make a sentiment analysis using Twitter information. [Help](https://medium.com/@anicolaspp/spark-streaming-and-twitter-sentiment-analysis-c860938d484).
-
-### Commit: ###
-
-Commit your practice code.
-
-<img src="assets/stop.png" title="Stop Logo" width="150" height="150">
-
-### Auto assessment: ###
-
-*1. What is a DAG?*
-
-*2. What is an RDD?*
-
-*3. Which are the benefits of Spark over MapReduce?*
-
-*4. Do you need to install Spark on all nodes of YARN cluster?*
-
-*5. What is the different of using `yarn-cluster` mode vs using `local` ?*
-
-*6. What is the different of using `yarn-cluster` mode vs `yarn-client` mode ?*
-
-*7. How do we create an RDD in Apache Spark ?*
-
-*8. What is the difference between RDDs, Dataframes and Datasets ?*
-
-*9. What types of operations do we use in the RDDs ?*
-
-*10. What is a partition?*
-
-*11. What is the Spark Driver? Which is the difference with the Spark Executor?*
-
-*12. What are broadcast variables? And accumulators?*
-
-*13. What is a DStream?*
-
-*14. What is the significance of Sliding Window Operations?*
-
-*15. Why would you use caching in Apache Spark?*
-
-*16. What do you understand by eager evaluation? And lazy? Which is used by Apache Spark?*
-
-*17. Which part of the following code will be executed on the master? Which will run on each worker node?*
-```
-val formatter: DateTimeFormatter = DateTimeFormatter.ofPattern("yyyy/MM")
-
-def getEventCountOnWeekdaysPerMonth(data: RDD[(LocalDateTime, Long)]): Array[(String, Long)] = {
-
- val result = data
-   .filter(e => e._1.getDayOfWeek.getValue < DayOfWeek.SATURDAY.getValue)
-   .map(mapDateTime2Date)
-   .reduceByKey(_ + _)
-   .collect()
-
- result
-   .map(e => (e._1.format(formatter), e._2))
-}
-
-private def mapDateTime2Date(v: (LocalDateTime, Long)): (LocalDate, Long) = {
- (v._1.toLocalDate.withDayOfMonth(1), v._2)
-}
-```
-
-
-→ [index](#index)
-
-# Month 4: Cloud Ecosystem
-
-### Motivation ###
-
-The term *“cloud”* has been used in many different contexts and it has many different definitions, so it makes sense to define the term at least for this course.
-
-Cloud is a collection of services that helps developers focus on their project rather than on the infrastructure that powers it.
-
-In more concrete terms, cloud services are things like Amazon Elastic Compute Cloud (EC2) or Google Compute Engine (GCE), which provide APIs to provision virtual servers, where customers pay per hour for the use of these servers.
-
-In many ways, cloud is the next layer of abstraction in computer infrastructure, where computing, storage, analytics, networking, and more are all pushed higher up the computing stack. This structure takes the focus of the developer away from CPUs and RAM and toward APIs for higher-level operations such as storing or querying for data.
-Cloud services aim to solve your problem, not give you low-level tools for you to do so on your own. Further, cloud services are extremely flexible, with most requiring no provisioning or long-term contracts. Due to this, relying on these services allows you to scale up and down with no advanced notice or provisioning, while paying only for the resources you use in a given month.
-
-There are many cloud providers out there, including Google, Amazon, Microsoft, Rackspace, DigitalOcean, and more. With so many competitors in the space, each of these companies must have its own take on how to best serve customers. It turns out that although each provides many similar products, the implementation and details of how these products work tends to vary quite a bit.
-
-In this course, we will focus on AWS and GCP.
-
-### What you will learn ###
-
-In this section, you will learn some of the basics of AWS and GCP, being able to fully understand, deploy and configure different components in the cloud.
-
-### Courses: ###
-
-1. [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
-
-**Mandatory:**
-2. [AWS Cloud Practitioner Essentials: **Core Services**](https://www.aws.training/learningobject/wbc?id=16332)
-
-3. [AWS Cloud Practitioner Essentials: **Architecting**](https://www.aws.training/learningobject/wbc?id=16332)
-
-**Extra:**
-
-4. [GCP - Google Cloud Platform Concepts](https://www.udemy.com/gcp-google-cloud-platform-concepts/) (6.5)
-
-→ [index](#index)
-
-### Practice: ###
-
-#### Before you begin ####
-
-AWS counts with several cloud products with different purposes, which you can check in https://aws.amazon.com/products/. To make use of them, you first need to set up an AWS account.
-
-##### Setting up an AWS account #####
-
-Setting up an account on AWS is pretty self-explanatory.
-
-1) Visit https://aws.amazon.com/ and click the yellow *Create an AWS Account* button on the right.
-2) You're then prompted to register a new account (unless you already have one)
-3) Enter login credentials
-4) Enter contact information
-5) Enter payment information. You will only be billed if your usage exceeds that permitted within the free tier. For more info, visit https://aws.amazon.com/documentation/account-billing/.
-6) You'll then be prompted to verify your identity by accepting a voice phone call from AWS where you’ll have to type a code into your phone that will be displayed on the computer.
-7) Select a support plan: choose basic (free)
-8) Once you receive confirmation, you can go ahead and log into the console!
-
-##### Billing Alarm #####
-
-As you know, AWS offers you a pay-as-you-go approach to help ensure you only pay for what you use on the software solutions you need. The idea of this course is not to waste any money, so, follow this instructions to set a billing alarm (so that you receive a notification as soon as you exceed either your free credits or the free usage tier limits, set the option, *When my total AWS charges for the month exceed* to $0).
-
-You can always review your spend and Free tier Usage, choosing from the account menu My Billing Dashboard.
-
-##### Free Tier #####
-
-AWS free tier includes more than 60 products which you can easily start using.
-
-##### Usage #####
-
-In order to check/update/delete your current components or create new ones, you have two options:
-- Use the AWS management console / portal: access https://aws.amazon.com/console/, sign in to the console, find the services you want and make use of their corresponding visual interface.
-- Use the AWS CLI: follow instructions in here, exposing your AWS credentials and interacting through the cli.
-
-#### Exercices ####
-
-*Note: previous steps are required in order to tackle the following exercises. Mind that, if skipping the billing alarm step and registering your credit card, you are in risk of spending money.
-Try to always use the same AWS region, such as us-east-1.*
-
-##### Lambda #####
-
-1) Create a Lambda function called da-training-gateway-lambda-function.
-- Choose the Author from scratch option
-- Choose Python3.7 as the Runtime
-- Create a proper role.
-2) Edit code inline in order to print “Hi X! Current time is: Z”, being X a random name and Z current time.
-3) Execute lambda function and check results are ok.
-4) Create a scheduler to run your lambda function once a minute.
-5) Deactivate previous scheduler
-
-##### API Gateway #####
-
-1) Create an API Gateway called da-training-api-gateway:
-- Choose the REST protocol.
-- New API
-- Regional endpoint type
-2) Create a POST method and link it with the previously created lambda function
-3) Use Postman or any other REST client to hit the created API gateway url and check the result is ok
-4) (Optional) Add an API Key:
-- Associate it with the previous resource, making it mandatory
-- Check that the previous POST request returns 403
-- Add the created API Key in your request as a x-api-key header
-- Check your response is successful again.
-
-##### S3 #####
-
-1) Create an S3 bucket called da-training-bucket
-2) Upload some sample images and json files to the bucket, using both the AWS management console and the AWS cli
-3) Use AWS cli to download the bucket content
-4) Change previously created lambda function in order to return the content of a JSON file uploaded in the S3 bucket
-5) Repeat the POST operation hitting the API gateway and checking the JSON is returned.
-
-##### EC2 #####
-
-1) Create a t2.micro EC2 instance. (follow this tutorial if needed).
-Choose the Amazon Linux AMI (free-tier eligible).
-- 2GB storage.
-- Create and save a key pair to be able to ssh the instance.
-2) Connect to your instance via ssh.
-3) Install python on your instance
-4) Copy a local python project into your instance via scp
-5) Try to start up the project in the EC2 instance and expose it through a certain port
-6) Try to access the service in the EC2 instance from your local computer browser, using the ec2InstanceIp:exposedPort (You may need to make some changes in the instance Security group configuration, exposing http/https ports)
-
-### Commit: ###
-
-Commit your practice code.
-
-<img src="assets/stop.png" title="Stop Logo" width="150" height="150">
-
-### Auto assessment: ###
-
-*1. What does cloud mean and what does it involve? Based on your answer, do you usually interact with the cloud? How often?*
-
-*2. What are the advantages of cloud? Which problems does it solve/avoid?*
-
-*3. Is it always a good idea to develop/maintain/migrate your products to the cloud? If not, when is it a good option and when it is not? (Consider costs, expertise, project dimensions, etc)*
-
-*4. Which are some of the cloud different providers? Do they offer different products?*
-
-*5. What does the concept of serverless mean?*
-
-*6. IaaS, PaaS, SaaS, FaaS.. what does each of these mean? Could you name an implementation for each both in GCP and AWS?*
-
-*7. What does Pay as you go mean? Investigate costs for lambdas and S3. Is there any difference with EC2 instances?*
-
-*8. How would you design a simple Web App in the cloud? (include products to use, flow diagrams, costs, etc, in AWS or in GCP). Consider just static files.*
-
-*9. How can we test a cloud infrastructure? Are there different type of tests that we can develop? Which tools would you use? Consider chaos testing.*
-
-*10. How can we secure our infrastructure? Investigate role creation and assignment. Security groups. Policies. Authentication and Authorization. Routing (Ingress and Egress)*
-
-*11. How can we monitor our infrastructure in the cloud? Consider logs and dashboards. What does KPI stand for?*
-
-*12. Which products are there available for batch processing? And for analytics?*
-
-*13. Load balancing and service discovery. Read about these concepts and how they can be easily implemented in the cloud.*
-
-*14. Real-time queues. Investigate what each of the providers offer related to this, limitations, costs, etc.*
-
-*15. How can we make deployments to the cloud? Investigate tools such as CloudFormation and Terraform and name the advantages of declarative languages and immutable infrastructures. Consider different environments (sandbox, dev, qa, prod, etc)*
-
-→ [index](#index)
-
----
-
-## Additional resources
-
-- Hadoop - The Definitive Guide - O’Reilly
-
-- Spark - The Definitive Guide - O’Reill
+- [GCP Advanced](gcp_advanced/)
 
 → [index](#index)
 
