@@ -136,3 +136,9 @@ After your machine is created, you should see a green checkmark in the list of i
 Welcome to **the Cloud**. You are now ready to go!
 
 *Note: when not using it, you can stop the instance. You can do this by going to the VM instances page in the GCP Console, selecting the instance and at the **VM Instances** page, click Stop. Your data will remain intact (you will kill running processes, though) and you can Restart it whenever you want. What happens with the instance IP? Is it still the same? If having finished with the instance, you can delete it. Mind that there's no way back in that case.*
+
+<img src="../assets/get_badge.png"> 
+
+### *Sync to obtain your badge!*
+ 
+Remember to sync with an Academy tutor to obtain your badge before continuing to the next module. This will also let you be sure you have acquired every needed concept. Complete the [Ending Module form](https://forms.gle/ukvWjKtoFYx4Kn8q7) before meeting with your tutor.
