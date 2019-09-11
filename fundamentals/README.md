@@ -108,21 +108,6 @@ Do not use the numpy package for this implementation. Just use the Standard Libr
 [Matrix calculation reference](
 http://matematicasbachiller.com/videos/2-bachillerato/introduccion-al-algebra-de-lo-lineal/01-calculo-matricial-6)
 
-**Challenge!**
-
-Create a simple REST API using Python + Flask which exposes previously developed Matrix functionalities. It should at least include:
-
-- POST /matrix: creates a new matrix, accepting a JSON payload.
-- GET /matrix/matrix_id: returns a specific matrix.
-- GET /matrix/matrix_id/row/row_number: returns a matrix row.
-- GET /matrix/matrix_id/column/column_number: returns a matrix column.
-
-Once finished, deploy it to your Google Compute Engine instance using port *8888*.
-
-**BONUS TRACK! (do you dare?)**
-
-Dockerize the previous REST API. Test it locally and once you make sure it is working properly, try to deploy it in your Compute Engine instance. Then, check the [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) service and try to deploy your service through `gcloud docker`.
-
 #### Deploying to the Cloud ####
 
 After having finished with your exercices, upload them to your Cloud Storage bucket within a folder called *Week_0*. 
