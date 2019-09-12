@@ -187,6 +187,11 @@ this meeting.
 
 ### Working Material ###
 
+#### Mandatory
+
+The following modules are **mandatory** in order to pass the academy and will be considered in the final interview. 
+Suggested order is the recommended one:
+
 - [Introduction: Cloud Ecosystem with GCP](introduction_to_gcp/)
 
 - [Fundamentals: Python + Linux](fundamentals/)
@@ -197,15 +202,20 @@ this meeting.
 
 - [Hadoop Ecosystem: Fundamentals - Spark](hadoop_ecosystem_fundamentals_2/)
 
-- [Containers & IAC](containers_iac/)
+#### Optional
+
+The following modules are *optional*. You can do whichever you want to get extra badges and reinforce your DA skills. Just 
+chosen modules by the student will be considered in the final interview:
 
 - [REST APIs](rest_apis/)
 
+- [Containers & IAC](containers_iac/)
+
 - [Streaming + Dataflow](streaming_dataflow/)
 
-- [Hadoop Ecosystem: Advanced](hadoop_ecosystem_advanced/)
-
 - [GCP Advanced](gcp_advanced/)
+
+- [Hadoop Ecosystem: Advanced](hadoop_ecosystem_advanced/)
 
 → [index](#index)
 
