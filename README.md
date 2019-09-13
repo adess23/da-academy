@@ -123,7 +123,7 @@ The Academy will be filled up on a *first-come, first-serve* basis.
 
 Applicants may be placed on a waiting list and notified of acceptance when space becomes available on future iterations of the training, which will be held on a monthly basis.
 
-Accepted students will count with support from Globant's subject experts, weekly check-up meetings, code-reviews of the practices, and a final evaluation which will be stored on Globant profile's files.
+Accepted students will count with support from Globant's subject experts, weekly check-up meetings and a final evaluation which will be stored on Globant profile's files.
 
 *If you are waiting for your acceptance email, you can start with the free-part of the training course.*
 
