@@ -25,15 +25,32 @@ In this section, you will learn some of the basics of AWS and GCP, being able to
 
 ### Courses: ###
 
-1. [GCP Official training](https://cloud.google.com/training/)
 
-2. [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
+###  Recommended Material
+0. [Google Cloud Platform 101 (Google I/O '18)](https://www.youtube.com/watch?v=trJaoEtBh6w)
+1. [Getting Started with with Google Cloud Platform - Playlist](https://www.youtube.com/watch?v=ujx-C2FO3_0&list=PLIivdWyY5sqI_-9KtGd4aEMu7gEO2ZWja)
 
-3. [AWS Cloud Practitioner Essentials: **Core Services**](https://www.aws.training/learningobject/wbc?id=16332)
+2. [GCP Essentials - Playlist](https://www.youtube.com/watch?v=4D3X6Xl5c_Y&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL)
 
-4. [AWS Cloud Practitioner Essentials: **Architecting**](https://www.aws.training/learningobject/wbc?id=16332)
+### Recommended Exercises
 
-→ [index](#index)
+1. [Free Labs Intro](https://google.qwiklabs.com/focuses/2794?parent=catalog&utm_source=gcp&utm_campaign=freelabs&utm_medium=site)
+    - A tour of Qwiklabs and the Google Cloud Platform
+    - App Engine: Qwik Start - Python
+    - BigQuery: Qwik Start - Command Line
+    - Explore and Create Reports with Data Studio
+
+2 - Python Bookshelf app using CloudSQL
+    https://cloud.google.com/python/getting-started/tutorial-app
+
+3 - Python Bookshelf app using Google Compute Engine
+    https://cloud.google.com/python/tutorials/bookshelf-on-compute-engine
+
+
+#### Extra Material
+The site:
+ [GCP Official training](https://cloud.google.com/training/)
+ 
 
 #### Before you begin ####
 
