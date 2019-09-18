@@ -51,14 +51,6 @@ In this section, you will learn some of the basics of AWS and GCP, being able to
 The site:
  [GCP Official training](https://cloud.google.com/training/)
  
-#### Optional
-
-2. [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
-
-3. [AWS Cloud Practitioner Essentials: **Core Services**](https://www.aws.training/learningobject/wbc?id=16332)
-
-4. [AWS Cloud Practitioner Essentials: **Architecting**](https://www.aws.training/learningobject/wbc?id=16332)
-
 
 #### Before you begin ####
 
