@@ -28,9 +28,20 @@ In this section, you will learn some of the basics of AWS and GCP, being able to
 
 ###  Recommended Material
 0. [Google Cloud Platform 101 (Google I/O '18)](https://www.youtube.com/watch?v=trJaoEtBh6w)
-1. [Getting Started with with Google Cloud Platform - Playlist](https://www.youtube.com/watch?v=ujx-C2FO3_0&list=PLIivdWyY5sqI_-9KtGd4aEMu7gEO2ZWja)
 
-2. [GCP Essentials - Playlist](https://www.youtube.com/watch?v=4D3X6Xl5c_Y&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL)
+1. [GCP Fundamentals - Globant's GCP Internal Site](https://sites.google.com/globant.com/trainings/cloud-computing/gcp/learn-by-topic/gcp-fundamentals?authuser=0)
+
+2. [Compute - Globant's GCP Internal Site](https://sites.google.com/globant.com/trainings/cloud-computing/gcp/learn-by-topic/compute?authuser=0)
+
+3. [GCP Storage & Databases - Globant's GCP Internal Site](https://sites.google.com/globant.com/trainings/cloud-computing/gcp/learn-by-topic/storage-databases?authuser=0)
+
+4. [Big Data - Globant's GCP Internal Site](https://sites.google.com/globant.com/trainings/cloud-computing/gcp/learn-by-topic/big-data?authuser=0)
+
+5. [Machine Learning - Globant's GCP Internal Site](https://sites.google.com/globant.com/trainings/cloud-computing/gcp/learn-by-topic/machine-learning?authuser=0)
+
+6. [Getting Started with with Google Cloud Platform - Playlist](https://www.youtube.com/watch?v=ujx-C2FO3_0&list=PLIivdWyY5sqI_-9KtGd4aEMu7gEO2ZWja)
+
+7. [GCP Essentials - Playlist](https://www.youtube.com/watch?v=4D3X6Xl5c_Y&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL)
 
 ### Recommended Exercises
 
