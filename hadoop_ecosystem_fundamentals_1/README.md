@@ -38,6 +38,47 @@ The Apache Hadoop software library is a framework that allows for the distribute
 #### Before you begin ####
 (It is assumed that Git is already installed and working).
 
+### Set up Cloud Dataproc ###
+
+Cloud Dataproc is a fast, easy-to-use, fully managed cloud service for running Apache Spark and Apache Hadoop clusters in a simpler, more cost-efficient way. Operations that used to take hours or days now complete in seconds or minutes instead, and you pay only for the resources you use (with per-second billing). Cloud Dataproc also easily integrates with other Google Cloud Platform (GCP) services, giving you a powerful and complete platform for data processing, analytics, and machine learning.
+
+In order to work on your Hadoop MR and Spark exercices, set up your own Dataproc cluster, which will count with every needed libraries and dependencies to run your code. 
+
+<p align="center"> 
+<img src="../assets/dataproc_cluster_creation.png"> 
+</p>
+
+Choose a Standard cluster. For machine type, choose the smallest instance both for master and slave nodes to start with and scale it only if needed.
+
+Once you have your cluster up, to submit a new job you will need to go to the Jobs tab and select the job type.
+
+<p align="center"> 
+<img src="../assets/dataproc_submit_job.png"> 
+</p>
+
+You can then inspect yor job details and logs and check whether the job has been successfully completed or not.
+
+<p align="center"> 
+<img src="../assets/dataproc_job_details.png"> 
+</p>
+
+In case you need to modify a file which has already been copied into GCP, you can edit it online with CloudShell:
+```
+$ cloudshell edit hadoop_mr_job.py
+```
+
+#### Pricing
+
+**Important!!** Mind that Dataproc cluster is expensive (you're charged based on the size of Cloud Dataproc clusters and the duration of time that they run). Here are some good practices you can follow to save costs:
+- We strongly suggest you (not only for this component but also for every service you'll be using in the cloud) to shut down the cluster while you're not using it. 
+- Check [scheduled deletion](https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/scheduled-deletion) if you want to automatically delete your cluster when not being used.
+- Use [Preemptible VMs](https://cloud.google.com/dataproc/docs/concepts/compute/preemptible-vms) in your cluster.
+- For further details on Dataproc pricing, check [this](https://cloud.google.com/dataproc/pricing). 
+
+#### Additional reading
+
+[Migrating On-Premises Hadoop Infrastructure to Google Cloud Platform](https://cloud.google.com/solutions/migration/hadoop/hadoop-gcp-migration-overview)
+
 #### Exercices ####
 
 1. ETL: Movies data processing
