@@ -20,7 +20,7 @@ Software development with Python
 
 Choose one of these:
 
-1. [Python for begginers](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+1. [Python for beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 2. [Acamica Python Training](https://globant.acamica.com/cursos/485/)
 
