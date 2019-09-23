@@ -17,29 +17,34 @@ Software development with Python
 #### Python
 
 **Mandatory:**
-1. [Acamica Python Training](https://globant.acamica.com/cursos/485/)
+
+Choose one of these:
+
+1. [Python for begginers](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
+2. [Acamica Python Training](https://globant.acamica.com/cursos/485/)
 
 **Recommended:**
 
-2. [Python Advanced](https://globant.acamica.com/cursos/488/)
+3. [Python Advanced](https://globant.acamica.com/cursos/488/)
 
 **Extra:**
 
-3. [Programming with Python: Hands-On Introduction for Beginners](https://www.udemy.com/python-programming-beginners/) (3.5h)
+4. [Programming with Python: Hands-On Introduction for Beginners](https://www.udemy.com/python-programming-beginners/) (3.5h)
 
-4. [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/) (4.5h)
+5. [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/) (4.5h)
 
-5. [Python Core and Advanced](https://www.udemy.com/python-core-and-advanced/) (8h)
+6. [Python Core and Advanced](https://www.udemy.com/python-core-and-advanced/) (8h)
 
-6. [Python from Beginner to Intermediate in 30 min.](https://www.udemy.com/python-from-beginner-to-expert-starter-free/) (1.5h)
+7. [Python from Beginner to Intermediate in 30 min.](https://www.udemy.com/python-from-beginner-to-expert-starter-free/) (1.5h)
 
-7. [Learn Python 3.6 for Total Beginners](https://www.udemy.com/python-3-for-total-beginners/) (6.5h)
+8. [Learn Python 3.6 for Total Beginners](https://www.udemy.com/python-3-for-total-beginners/) (6.5h)
 
-8. [Python Basics - Bootcamp](https://www.udemy.com/python-basics-bootcamp/) (45m)
+9. [Python Basics - Bootcamp](https://www.udemy.com/python-basics-bootcamp/) (45m)
 
-9. [Learn Python 3 From Scratch | Python for Absolute Beginners](https://www.udemy.com/learn-python-3-from-scratch-python-for-absolute-beginners/) (2.5h)
+10. [Learn Python 3 From Scratch | Python for Absolute Beginners](https://www.udemy.com/learn-python-3-from-scratch-python-for-absolute-beginners/) (2.5h)
 
-10. [Python 101: Unlock Programm Skills - From Novice to Expert](https://www.udemy.com/python-101-unlock-programming-skills/) (4.5h)
+11. [Python 101: Unlock Programm Skills - From Novice to Expert](https://www.udemy.com/python-101-unlock-programming-skills/) (4.5h)
 
 
 #### Linux
