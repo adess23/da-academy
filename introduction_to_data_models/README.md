@@ -91,7 +91,7 @@ Create a *high-school* database to be able to solve the exercices in the followi
 
 6. Identify and Optimize all queries.
 
-7. [NoSQL exercices](exercices/MongoDB_Exercises.pdf) (Download [restaurants.zip](exercices/restaurants.zip)). Choose GCP as the provider.
+7. [NoSQL exercices](../exercices/MongoDB_Exercises.pdf) (Download [restaurants.zip](../exercices/restaurants.zip)). Choose GCP as the provider.
 
 **Challenge!**
 
