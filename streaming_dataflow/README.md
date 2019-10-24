@@ -129,19 +129,27 @@ Commit your practice code.
   
 
 ### Auto assessment ###
-TBD...
 
 1. How you can describe Streaming in a simple words ?
 2. Real time is the same than Streaming process ?
 3. Could you list Kafka components. ?
-4. Is Dataflow fully managed ? 
-5. What is Request/response pattern ?
-6. How does the Publish / subscribe pattern start ? 
-7. Explain the role of the offset.
-8. In Kafka, What is a Consumer Group ?
-9. Is it possible to use Kafka without ZooKeeper ?
-10. Why are Replications critical in Kafka?  
-  
+4. What is Request/response pattern ?
+5. How does the Publish / subscribe pattern start ? 
+6. Explain the role of the offset.
+7. In Kafka, What is a Consumer Group ?
+8. Is it possible to use Kafka without ZooKeeper ?
+9. Why are Replications critical in Kafka?  
+10. What is Apache Beam? How is it related with Dataflow? Can you run Beam programs with any other tool?
+11. Is Dataflow fully managed? 
+12. Is Dataflow meant for batch or stream processing?
+13. What are PCollections and PTransforms? Are the former always bounded? What happens if the collection does not fit in memory?
+14. What is ParDo? Where is the associated code executed? Does it contain state?
+15. What are side inputs? How do you create them in Python? Is it different in Java?
+16. Can you explain the concept of beam windowing? Which types of windowing are there?
+17. Can you compare Dataflow with Dataproc? (take into account servers, migrations, required team). When would you choose the former and when the latter?
+18. GroupByKey vs Combine. What are the differences?
+19. What are Dataflow templates? Can you mention some examples?
+20. Cloud Dataprep. How is it related with Cloud Dataflow?
 
 ---
 
