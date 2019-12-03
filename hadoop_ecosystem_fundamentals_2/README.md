@@ -38,7 +38,7 @@ You will learn the main concepts, architecture and basics. Besides, you will be 
 
 **Server Log Analysis with Spark**
 
-Files: [weblog.csv](exercices/weblog.csv)
+Files: [weblog.csv](../exercices/weblog.csv)
 
 This lab will demonstrate how you can perform web server log analysis with Apache Spark.
 Log data comes from many sources, such as web server and server commands.
