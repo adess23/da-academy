@@ -31,8 +31,8 @@ With the rise of IoT and Smart Devices, we are generating data at an unprecedent
 
 ### Streaming ###
 ##### Lectures ####
-* [Streaming 101: The world beyond batch](https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/)
-* [Streaming 102: The world beyond batch](https://www.oreilly.com/radar/the-world-beyond-batch-streaming-102/)
+* [Streaming 101: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+* [Streaming 102: The world beyond batch](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 * [Understanding Stream Processing](readings/dzone-refcard265-streamprocessing-0523.pdf)
 * [Lambda Architecture](http://lambda-architecture.net/)
 * [Kappa Architecture](https://milinda.pathirage.org/kappa-architecture.com/)
