@@ -16,8 +16,7 @@ You will learn the main concepts, architecture and basics. Besides, you will be 
 
 **Mandatory:**
 
-1. [Acamica Spark Training](https://globant.acamica.com/cursos/209/)
-- Some videos are missed, however, you can follow the course without problems_
+1. [Spark on udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) (10h)
 
 **Extra:**
 
