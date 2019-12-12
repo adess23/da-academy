@@ -95,7 +95,8 @@ Create a *high-school* database to be able to solve the exercices in the followi
 
 **Challenge!**
 
-Instead of using the *Atlas* provider, use **[Google Cloud Datastore](https://cloud.google.com/datastore/)**. Try solving the previous exercices within this fully-managed service.
+Instead of using the *Atlas* provider, use **[Google Cloud Datastore](https://cloud.google.com/datastore/)**. Try solving the previous exercises within this fully-managed service.
+Use [this guide](../exercices/Datastore_Exercise.pdf) in order to configure environment.
 
 #### Additional exercices ####
 
