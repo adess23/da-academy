@@ -19,19 +19,19 @@
 
 4. [Technical Assistance](#technical-assistance)
 
-5. [Performance Measurement](#performance-measurement)
+5. [Individual Performance](#individual-performance)
 
-6. [Materials](#materials)
+6. [Performance Measurement](#performance-measurement)
 
-7. [General Guidelines](#general-guidelines)
+7. [Materials](#materials)
 
-8. [Handling advanced Developers](#handling-advanced-developers)
+8. [General Guidelines](#general-guidelines)
 
-9. [Sign up](#sign-up)
+9. [Handling advanced Developers](#handling-advanced-developers)
 
-10. [Learning Days](#learning-days)
+10. [Sign up](#sign-up)
 
-11. [Individual performance](#individual-performance)
+11. [Learning Days](#learning-days)
 
 12. [Earning Badges](#earning-badges)
 
@@ -41,7 +41,7 @@
 
 ### Objective
 
-This course teaches the basics of Data Architecture with the complementary stack needed for a real project. More information can be found within the [academy site](https://sites.google.com/globant.com/da-academy/home).
+This course teaches the basics of Data Architecture with the complementary stack needed for real projects. More information can be found within the [academy site](https://sites.google.com/globant.com/da-academy/home).
 
 → [index](#index)
 
@@ -49,30 +49,52 @@ This course teaches the basics of Data Architecture with the complementary stack
 
 The training is aimed to beginners. A basic knowledge on OOP and databases is desired, though. Any additional knowledge is beneficial.
 
-The goal of the acade,y is to gain data related skills. Globant will keep a record of the evaluation score of each participant, and will take it into account for future positions.
+The goal of the academy is to gain data related skills. Globant will keep a record of the evaluation score of each participant, and will take it into account for future positions.
 
-*Note: The completion of the course does not mean you will become a Data Architect automatically, nor will you be assigned to a Data project immediately.*
+*Note: The completion of the course does not guarantee you will become a Data Architect automatically, nor will you be assigned to a Data project immediately.*
 
 → [index](#index)
 
 ### Duration
 
-4 months (at most... fast students are encouraged, of course!)
+The training consists of five mandatory courses and 5 optional additional modules. Each one of these courses will provide the globers the knowledge, skills and techniques mandatory for any Data Architect.
+
+Each one of this courses is designed to be completed in between 4 and 8 weeks. However, you can on do it on your pace and inform once a course has been completed.
 
 → [index](#index)
 
 ### Technical Assistance
 
 You can contact other Training participants or any available tutor if you need
-technical assistance. Communications will take place over [Globant Slack](https://globant.slack.com) on our own channel.
+technical assistance. Communications will take place over [Globant Slack](https://globant.slack.com) on our own channel **g-s-da-acdm-stds**.
 
 → [index](#index)
 
+### Individual Performance
+
+After each module, you will find several related exercises:
+
+General requirements:
+
+1. Corrections will be made against a **master** branch. You can create any additional branch for testing purposes, but ensure your latest changes are in the main branch.
+
+2. Exercises should be solved **individually**.
+
+3. Extra **documentation** is recommended (e.g., a good Readme.md file indicating what has been done and where within your project).
+
+4. After each topic, you will find two types of exercises. The **Practice** section is considered mandatory for everyone. The **Challenges** section is optional (of course, try to tackle it too. Every additional task acts like a bonus).
+
+5. There's an **Auto assessment** section after each subject which will help you understand how you're doing. If this becomes too difficult, then you should go back and make a second read. This said, try not to leave concepts/exercises for the end. Every subject is important and it helps (in some way, it is required) to understand the following subject.
+
+6, Sync with any of the available tutors to be **evaluated** in each topic. After scheduling this evaluation, you will be assigned proper permissions to the corresponding tests (which are not available at Github) for a certain amount of time, after which these will be revoked. You will then receive proper feedback about your performance which will impact your final evaluation.
+
 ### Performance Measurement
 
-1. Code review at the end of the course.
+1. Code review and knowledge checkpoint at the end of each course.
 
-2. Checkpoint completion after Learning stage with any tutor.
+2. Assigned tutor after reaching the Hadoop module to monitor your progress.
+
+3. Technical interview at the end of the four mandatory courses.
 
 → [index](#index)
 
@@ -89,7 +111,7 @@ technical assistance. Communications will take place over [Globant Slack](https:
 
 5. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/).
 
-6. **AWS account. Follow [this tutorial](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) to create yours. You might be asked to add a Payment method: don't worry, you won't be charged for anything during the course if you follow our guideline.** 
+6. **GCP account. Do not use your Globant account when entering the GCP console (which will throw an error) but a personal one. You might be asked to add a Payment method: don't worry, you won't be charged for anything during the course if you follow our guideline.** 
 
 7. Fork this repo https://github.corp.globant.com/big-data-studio/da-academy to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 
@@ -112,7 +134,9 @@ You must look for support and guidance from your PM, teammates and tutors.
 
 ### Handling Advanced Developers
 
-Developers that move faster than average can go ahead and complete as much exercises as wanted. Additional tools or frameworks can be used if you think that's necessary.
+- Developers that move faster than average can go ahead and complete as much exercises as wanted. Additional tools or frameworks can be used if you think that's necessary.
+
+- If a developer has already experience with one tool or concept (for instance, Python) , the theory of that level may be skipped. However, it's desirable to complete the exercises assigned to it in order to have proof of expertise at the moment of the final evaluation.
 
 → [index](#index)
 
@@ -149,24 +173,6 @@ Most important task numbers are listed in the "*Key Points*" section for each da
 
 4. ### Commit: ###
 You will commit all your code on a daily basis, when you finish your practice.
-
-→ [index](#index)
-
-### Individual performance ###
-
-After each lecture, you will be given several related exercices which act like a bonus.
-
-General requirements:
-
-1. Corrections will be made against your fork **master** branch. You can create any additional branch for testing purposes, but ensure your latest changes are in the main branch.
-
-2. Exercices should be solved **individually**.   
-
-3. Extra **documentation** is recommended (e.g., create a *spring_comments.txt* file indicating what has been done and where within your project).
-
-4. After each topic, you will find two types of exercices. The **Practice** section is considered mandatory for everyone. The **Challenges!!** section is optional (of course, try to tackle it too. Every additional task acts like a bonus).
-
-5. There's an **Auto assessment** section after each subject which will help you understand how you're doing. If this becomes too difficult, then you should go back and make a second read. This said, try not to leave concepts/exercices for the end. Every subject is important and it helps (in some way, it is required) to understand the following subject. 
 
 → [index](#index)
 
