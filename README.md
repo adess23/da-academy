@@ -111,7 +111,7 @@ General requirements:
 
 5. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/).
 
-6. **Google account. Do not use your Globant account when entering the GCP console (which will throw an error) but a personal one. You might be asked to add a Payment method: don't worry, you won't be charged for anything during the course if you follow our guideline.** 
+6. **Google account. Do not use your Globant account when entering the GCP console (which will throw an error) but a personal one. You might be asked to add a Payment method: don't worry, you won't be charged for anything during the course if you follow our guideline.** For more information, check [Google Cloud Free Tier](https://cloud.google.com/free/docs/gcp-free-tier). 
 
 7. Fork this repo https://github.corp.globant.com/big-data-studio/da-academy to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 
