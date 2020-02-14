@@ -86,7 +86,7 @@ General requirements:
 
 5. There's an **Auto assessment** section after each subject which will help you understand how you're doing. If this becomes too difficult, then you should go back and make a second read. This said, try not to leave concepts/exercises for the end. Every subject is important and it helps (in some way, it is required) to understand the following subject.
 
-6, Sync with any of the available tutors to be **evaluated** in each topic. After scheduling this evaluation, you will be assigned proper permissions to the corresponding tests (which are not available at Github) for a certain amount of time, after which these will be revoked. You will then receive proper feedback about your performance which will impact your final evaluation.
+6. Sync with any of the available tutors to be **evaluated** in each topic. After scheduling this evaluation, you will be assigned proper permissions to the corresponding tests (which are not available at Github) for a certain amount of time, after which these will be revoked. You will then receive proper feedback about your performance which will impact your final evaluation.
 
 ### Performance Measurement
 
