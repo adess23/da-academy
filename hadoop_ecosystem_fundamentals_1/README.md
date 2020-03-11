@@ -33,6 +33,10 @@ The Apache Hadoop software library is a framework that allows for the distribute
 
 6. [Hadoop Basic Course for Beginners to Professionals](https://www.udemy.com/hadoop-basic-course-for-beginners-to-professionals/) (2.5h)
 
+### Reading: ###
+
+7. [MapReduce in detail](../reading/mr_in_detail.pptx)
+
 ### Practice: ###
 
 #### Before you begin ####
