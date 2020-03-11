@@ -181,7 +181,7 @@ in order to guide you and choose the ones which are most suitable for your caree
 
 In order to end the course and be able to attend an interview, golden badges are a pre-requisite and their corresponding 
 modules will be considered as known. Red badges in which the student has worked will also be part of the content of 
-this meeting.
+this meeting. Information about how to get these badges is available within each of the modules.
 
 → [index](#index)
 
