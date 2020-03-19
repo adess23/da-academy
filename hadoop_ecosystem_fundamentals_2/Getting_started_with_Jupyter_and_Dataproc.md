@@ -194,3 +194,5 @@ mycloudsdk gcloud beta dataproc clusters delete $CLUSTER_NAME --region='us-centr
 mycloudsdk gsutil rm -r gs://$BUCKET_NAME
 ```
 
+**Warning**
+Please note that deleting the bucket will remove all data you uploaded or might have produced, so make sure you have backups if anything's valuable to you.
