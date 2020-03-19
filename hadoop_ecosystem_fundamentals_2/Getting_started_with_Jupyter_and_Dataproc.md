@@ -108,9 +108,6 @@ List my existing buckets by running:
 ~$ mycloudsdk gsutil ls gs://$BUCKET_NAME
 ```
 
-TODO:
-
-Add command to upload file using Docker container (You need to consider volume to share files between your host and container).
 
 ## Create a Cluster and install the Jupyter component
 
