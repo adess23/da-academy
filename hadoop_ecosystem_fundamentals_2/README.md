@@ -33,6 +33,14 @@ You will learn the main concepts, architecture and basics. Besides, you will be 
 #### Before you begin ####
 (It is assumed that Git is already installed and working).
 
+#### Setting Up your Notebooks with Spark Cluster ####
+
+We have created two tutorials to help students to setup your Spark cluster in a easier way. 
+Please choice the most suitable method for you considering the first one requires a GCP account.
+
+* [Getting started with Jupyter Notebook on Dataproc](Getting_started_with_Jupyter_and_Dataproc.md)
+* [Working with PySpark using Google Colaboratory](Getting_started_with_Spark_and_Colab.ipynb)
+
 #### Exercices ####
 
 **Server Log Analysis with Spark**
