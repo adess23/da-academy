@@ -62,7 +62,7 @@ Once you've authenticated successfully, credentials are preserved in the volume 
 For simplicty create an alias by running:
 
 ```bash
-alias mycloudsdk='docker run --rm --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk'
+alias mycloudsdk='docker run --rm --volumes-from gcloud-config -v ~/:/home/shared gcr.io/google.com/cloudsdktool/cloud-sdk'
 ```
 
 4. List your projects by running:
@@ -106,6 +106,45 @@ List my existing buckets by running:
 
 ```bash
 ~$ mycloudsdk gsutil ls gs://$BUCKET_NAME
+```
+
+## Uploading data to GS bucket
+
+If you need to upload data to the created GS bucket, the alias created above can help. It mounts the home folder of the host system on the `/home/shared` directory inside the docker image.
+
+You can confirm this by running this command:
+
+```bash
+mycloudsdk ls /home/shared
+```
+
+You should see all the files in your host system's home folder.
+
+You can upload any file in your home folder by referring to it as it was in the `/home/shared` directory of the container.
+So you can upload a file like so:
+
+```bash
+$ mycloudsdk gsutil cp /home/shared/README.md gs://$BUCKET_NAME
+```
+
+Sample output of this command:
+```
+Copying file:///home/shared/README.md [Content-Type=text/markdown]...
+- [1 files][    8.0 B/    8.0 B]
+Operation completed over 1 objects/8.0 B.
+```
+
+However this will *not* show up in your jupyter notebook. In order to do that, you have place files in `gs://$BUCKET_NAME/notebooks/jupyter`, like so:
+
+```bash
+$ mycloudsdk gsutil cp /home/shared/README.md gs://$BUCKET_NAME/notebooks/jupyter
+```
+
+Sample output of this command:
+```
+Copying file:///home/shared/README.md [Content-Type=text/markdown]...
+/ [1 files][    8.0 B/    8.0 B]
+Operation completed over 1 objects/8.0 B.
 ```
 
 
