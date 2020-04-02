@@ -98,11 +98,3 @@ So, how will you solve this problem where we want to create a single Hive table 
 * [Hadoop - The Definitive Guide - O’Reilly](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/)
 * [Spark - The Definitive Guide - O’Reill](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-
----
-
-<img src="../assets/get_badge.png"> 
-
-### *Sync to obtain your badge!*
- 
-Remember to sync with an Academy tutor to obtain your badge before continuing to the next module. This will also let you be sure you have acquired every needed concept. Complete the [Ending Module form](https://forms.gle/ukvWjKtoFYx4Kn8q7) and a tutor will ping you to schedule the evaluation date. If not being noticed after 7 days, feel free to remind any of the tutors about it.
