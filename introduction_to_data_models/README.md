@@ -154,6 +154,6 @@ Commit your practice code.
 
 <img src="../assets/get_badge.png"> 
 
-### *Sync to obtain your badge!*
+### *Get your badge!*
  
 Remember to get your badge before continuing to the next module. This will also let you be sure you have acquired every needed concept. Complete the [Ending Module form](https://forms.gle/ukvWjKtoFYx4Kn8q7) and a tutor will ping you to schedule the evaluation date.

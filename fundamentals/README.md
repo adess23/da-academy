@@ -168,8 +168,6 @@ Commit your practice code.
 ---
 
 <img src="../assets/get_badge.png"> 
-
-### *Sync to obtain your badge!*
  
 ### *Get your badge!*
  
