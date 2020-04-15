@@ -225,6 +225,12 @@ chosen modules by the student will be considered in the final interview:
 
 → [index](#index)
 
+
+### Q&As presentations ###
+
+In this section, Q&As presentations will be uploaded for everyone to leverage asynchronously:
+
+- [Data migration tips](https://drive.google.com/open?id=1qJBb4JgzOnTf8kyhoc7EI-88MfvLAu8NfAAgmDY3BCY)
 ---
 
 ## UPON TRAINING COMPLETION
