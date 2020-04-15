@@ -37,7 +37,9 @@
 
 13. [Working material](#working-material)
 
-14. [Upon training completion](#upon-training-completion)
+14. [Q&As presentations](#qas-presentations)
+
+15. [Upon training completion](#upon-training-completion)
 
 ### Objective
 
