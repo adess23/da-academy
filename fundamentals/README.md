@@ -79,7 +79,12 @@ Choose one of these:
 1. **Linux basics**: Answer the following questions:
 
 - What command would you use to count the amount of occurrences of the word ​Unix ​in a file? How would make the command case insensitive?
+
+grep -wc 'Unix' FileName
+
 - What command would you use to constantly see the last 100 lines appended to a file that contain the word ​*"ERROR"*​?
+
+tail -n 100	| grep 'ERROR' filename
 
 2. **Python Basics**: Matrix Calculation
 
