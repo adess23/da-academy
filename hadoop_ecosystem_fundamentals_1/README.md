@@ -131,6 +131,8 @@ Commit your practice code.
 
 *1. Please indicate the phases for Data Analysis Process?*
 
+R/
+
 *2. What are the main components of a Hadoop Application?*
 
 *3. What are the 2 parts that divide the Wrangling phase?*
